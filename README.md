@@ -26,7 +26,7 @@
 ## 🚀 Getting Started
 
 1. <b>Clone or download</b> this repository.
-2. <b>Open</b> <code>app.html</code> in your favorite web browser.
+2. <b>Open</b> <code>index.html</code> in your favorite web browser.
 3. <b>Click</b> <code>📁 Choose Audio File</code> and select an audio file from your device.
 4. <b>Press</b> <code>▶️ Play</code> to start the visualization.
 5. <b>Adjust</b> the volume slider as desired.
@@ -53,6 +53,6 @@
 
 ```
 audio-visualizer/
-├── app.html        # Main application file
+├── index.html        # Main application file
 ├── README.md       # This stunning README
 ```
