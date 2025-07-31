@@ -36,7 +36,7 @@
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/audio-visualizer-demo.gif" alt="Audio Spectrum Visualizer Demo" width="700"/>
+  <img src="https://raw.githubusercontent.com/rabius-sunny/audio-spectrum-visualizer/refs/heads/main/spectrum.png" alt="Audio Spectrum Visualizer Demo" width="700"/>
 </p>
 
 ---
